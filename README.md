@@ -1,1 +1,1 @@
-# me
+# ¡Bienvenidos a mi perfil de GitHub! Soy Hernán Pizarro, Ingeniero Agrónomo apasionado por enfrentar nuevos desafíos y explorar fronteras innovadoras. Actualmente, me encuentro incursionando en el fascinante mundo de la ciencia de datos, donde fusiono mi formación agronómica con el mundo de los datos en busca de soluciones efectivas y sostenibles.
